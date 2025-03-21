@@ -24,8 +24,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/secure-share-govt-docs.git
-   cd secure-share-govt-docs
+   git clone https://github.com/Suriyamadhubalan/Secure_Share_documents-.git
+   cd secure-share-docs
    ```
 2. **Install Dependencies:**
    ```bash
